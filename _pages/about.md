@@ -16,8 +16,8 @@ social: true # includes social icons at the bottom of the page
 ---
 
 I am a PhD Student at inria Saclay in the [Soda team](https://team.inria.fr/soda/) under the supervision of [Judith Abécassis](https://judithabk6.github.io) and [Gaël Varoquaux](https://gael-varoquaux.info) since October 2023.
-
 My research interests include **machine learning**, **statistics**, **survival analysis** and their applications on health.
+I am a graduate from [MVA research master] and [Ecole des Ponts Paristech]. You can find more details on my [résumé]().
 
 ---
 
