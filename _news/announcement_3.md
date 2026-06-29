@@ -7,4 +7,4 @@ related_posts: false
 
 
 **Survival Models:**
-I've talk about our article for the [BIOSTAT team](https://www.epfl.ch/labs/biostat/biostat-chair-of-biostatistics/members/) at EPFL. 
+I've talked about our article for the [BIOSTAT team](https://www.epfl.ch/labs/biostat/biostat-chair-of-biostatistics/members/) at EPFL. 
